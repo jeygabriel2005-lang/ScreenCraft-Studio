@@ -1,0 +1,6 @@
+{
+  "name": "Tuxpan Alta Gama",
+  "description": "Publicación editorial y autoridad de inversión en Tuxpan, Veracruz: bienes raíces de alta gama, infraestructura portuaria, comercio regional y turismo náutico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
